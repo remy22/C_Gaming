@@ -1,0 +1,5 @@
+C:\Users\dhantha\AppData\Local\Temporary Projects\fahrenheitConverter\bin\Debug\fahrenheitConverter.exe
+C:\Users\dhantha\AppData\Local\Temporary Projects\fahrenheitConverter\bin\Debug\fahrenheitConverter.pdb
+C:\Users\dhantha\AppData\Local\Temporary Projects\fahrenheitConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhantha\AppData\Local\Temporary Projects\fahrenheitConverter\obj\x86\Debug\fahrenheitConverter.exe
+C:\Users\dhantha\AppData\Local\Temporary Projects\fahrenheitConverter\obj\x86\Debug\fahrenheitConverter.pdb
